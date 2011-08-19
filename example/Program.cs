@@ -18,7 +18,7 @@ namespace Hive.Example
             var client = new ThriftHive.Client(proto);
 
             transport.Open();
-            client.execute("select userAgent from vadim_clicks limit 100");
+            client.execute("select userAgent from clicks limit 100");
             var rows = client.fetchAll();
             transport.Close();
 
