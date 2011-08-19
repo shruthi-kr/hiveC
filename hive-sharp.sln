@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hive-sharp-lib", "hive-sharp-lib\hive-sharp-lib.csproj", "{0999178F-777A-40DF-84D3-9040A53F4AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "example", "example\example.csproj", "{FC1BDEC1-4E3B-4ABF-A693-779A64DEF5E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0999178F-777A-40DF-84D3-9040A53F4AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0999178F-777A-40DF-84D3-9040A53F4AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0999178F-777A-40DF-84D3-9040A53F4AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0999178F-777A-40DF-84D3-9040A53F4AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1BDEC1-4E3B-4ABF-A693-779A64DEF5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1BDEC1-4E3B-4ABF-A693-779A64DEF5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1BDEC1-4E3B-4ABF-A693-779A64DEF5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1BDEC1-4E3B-4ABF-A693-779A64DEF5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
